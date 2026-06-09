@@ -1,25 +1,79 @@
-# Stopwatch Web Application
+# SCT_WD_2 - Stopwatch Web Application
 
-## Overview
-A responsive and interactive stopwatch web application built using HTML, CSS, and JavaScript.
+## 📌 Project Description
 
-## Features
+This project is an interactive Stopwatch Web Application developed as part of the SkillCraft Technology Web Development Internship Program.
+
+The application enables users to measure time intervals accurately with features such as start, pause, reset, and lap time tracking.
+
+---
+
+## 🚀 Features
+
 - Start Stopwatch
 - Pause Stopwatch
 - Reset Stopwatch
 - Record Lap Times
 - Display Lap History
-- Responsive UI
+- Responsive User Interface
 
-## Technologies Used
+---
+
+## 🛠 Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
-## How to Run
-1. Download the project.
-2. Open folder in VS Code.
-3. Open index.html in browser.
+---
 
-## GitHub Repository
-Upload all files to your GitHub repository and add screenshots of the working application.
+## 📂 Project Structure
+
+SCT_WD_2/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── screenshots/
+    ├── home.png
+    ├── running.png
+    └── lap-times.png
+
+---
+
+## ▶ How to Run
+
+1. Download or Clone the Repository.
+2. Open the project folder in VS Code.
+3. Open index.html using a browser or Live Server.
+4. Use the stopwatch controls.
+
+---
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home](screenshots/home.png)
+
+### Stopwatch Running
+
+![Running](screenshots/running.png)
+
+### Lap Time Tracking
+
+![Lap Times](screenshots/lap-times.png)
+
+---
+
+## 🎯 Learning Outcomes
+
+- DOM Manipulation
+- Event Handling
+- JavaScript Timing Functions
+- Responsive Web Design
+- Git & GitHub Workflow
+
+---
+
